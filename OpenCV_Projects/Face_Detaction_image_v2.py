@@ -20,3 +20,4 @@ for(x,y,w,h) in face:
 cv2.imshow("Output",img)
 print("I am Find ",i,"Face in this image")
 cv2.waitKey(0)
+cv2.destroyAllWindows()
