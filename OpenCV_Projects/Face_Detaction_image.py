@@ -15,6 +15,6 @@ for(x,y,w,h) in face:
     print(i,"=","x",x,"y",y,"w",w,"h",h)
     cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2) #create Blue ractangle on around face 
     i=i+1
-print("I am Find ",i,"Face in this image")
+print("I Find ",i,"Face in this image")
 cv2.imshow("Output",img) #show Face output
 cv2.waitKey(0)  
