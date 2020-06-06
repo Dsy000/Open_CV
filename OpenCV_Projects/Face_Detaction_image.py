@@ -1,3 +1,5 @@
+#This Facedetaction example 
+#
 import cv2
 
 faceCascade= cv2.CascadeClassifier("data/cascades_data/haarcascade_frontalface_default.xml") #cascade File location
@@ -9,7 +11,7 @@ face=faceCascade.detectMultiScale(imgGray,1.1,4)
 
 print(face)
 for(x,y,w,h) in face:
-    cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2)
+    cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2) #create Blue ractangle on around face 
 
-cv2.imshow("Output",img)
-cv2.waitKey(0)
+cv2.imshow("Output",img) #show Face output
+cv2.waitKey(0)  
