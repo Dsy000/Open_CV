@@ -18,3 +18,4 @@ for(x,y,w,h) in face:
 print("I Find ",i,"Face in this image")
 cv2.imshow("Output",img) #show Face output
 cv2.waitKey(0)  
+cv2.destroyAllWindows()
