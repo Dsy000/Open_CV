@@ -1,6 +1,8 @@
 #This Facedetaction example 
 # Version_1
 #-Created_by_Deepak_yadav
+#In this example simply we detect face from image and drow rectangle around the fcace
+#and print all axis(x,y,h,w) value.
 #
 import cv2
 
