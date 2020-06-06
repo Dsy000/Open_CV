@@ -1,4 +1,5 @@
 # Version_2
+#in this version we add print face_number on image and get face area size.
 #-Created_by_Deepak_yadav
 #
 import cv2
