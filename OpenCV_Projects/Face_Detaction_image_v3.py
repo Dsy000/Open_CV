@@ -1,4 +1,5 @@
 # Version_3
+#in this version we cropt face and show on new window.
 #-Created_by_Deepak_yadav
 #
 import cv2
