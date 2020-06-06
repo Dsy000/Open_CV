@@ -1,3 +1,4 @@
+# Version_1
 import cv2
 
 faceCascade= cv2.CascadeClassifier("data/cascades_data/haarcascade_frontalface_default.xml") #cascade File location
