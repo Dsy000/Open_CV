@@ -1,3 +1,7 @@
+#Install this lib First
+#1) pip install opencv-python 
+#2) pip install opencv-contrib-python
+
 import cv2
 
 while True:
