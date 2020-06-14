@@ -1,3 +1,3 @@
---> My Game Projects in Python
+--> My Face_Detection Projects in Python
 
-![](py_game.jpg)
+![](facedetaction.jpg)
