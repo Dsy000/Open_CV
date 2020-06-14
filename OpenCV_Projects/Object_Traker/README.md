@@ -1,3 +1,3 @@
---> My Game Projects in Python
+--> Object_Tracker
 
-![](py_game.jpg)
+![](obj.png)
