@@ -1,3 +1,3 @@
---> My Game Projects in Python
+--> My Computer vision Projects in Python
 
 ![](cv.jpeg)
